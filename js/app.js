@@ -18,3 +18,36 @@
 //			just be a database storing values written out by coders.
 //			
 			
+//2.)
+
+
+const str = 'Radar';
+	console.log('Radar');
+const splitPal = str.split('');
+	console.log(splitPal);
+const reverse = splitPal.reverse();
+	console.log(reverse);
+const join = reverse.join('');
+	console.log(join);
+	console.log(join.toUpperCase());
+
+// const checkPalindrome(str);
+// 	if (str == splitPalindrome.reverse.join);
+
+console.log(splitPal.reverse.join);
+
+// 	if (str === str.split('').reverse().join('');
+// 		console.log('');
+// 	else(console.log(false));
+// }
+
+// const checkPalindrome(str) = str.split('').reverse().join('');
+
+
+
+	//     str.split('').reverse().join('')};
+	// console.log(checkPalindrome(str));
+	// //         return true;
+	// //  		else return false;
+	// // }
+	
