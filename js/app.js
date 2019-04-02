@@ -34,16 +34,27 @@
 // console.log(checkPalindrome("Radar"));
 // console.log(checkPalindrome("Borscht"));
 
-//#3.)
+//#3.) sumDigits
+// let num = 42
+// function sumDigits(num) {
+// const sumArray = sumDigits[num];
+// console.log(sumArray);
+// num.split('');
+// 	console.log(sumSplit);
+// }
+const n = 12;
+for(i=0; i < n.lenth; i++)
+const arrayMaker(n) => { Array.from(n.toString()).map(Number);
+console.log(arrayMaker[n]);
 
 
 //4.) Pythagoras 
-	function pythagoras(sideA, sideB) {
-		let sideC = ((sideA * sideA) + (sideB * sideB));
-		let hypo = Math.sqrt(sideC) 
-		return hypo;
-	};
-	console.log(pythagoras(3, 4));
+	// function pythagoras(sideA, sideB) {
+	// 	let sideC = ((sideA * sideA) + (sideB * sideB));
+	// 	let hypo = Math.sqrt(sideC) 
+	// 	return hypo;
+	// };
+	// console.log(pythagoras(3, 4));
 
 	
 
@@ -70,15 +81,16 @@
 // 		};
 // 		return num > 1;
 // 	};
+//console.log(isPrime(11));
+//console.log(isPrime(20));
+//console.log(isPrime(11));
 // printPrime[i]{
 // 	for(i=2; i < 97; i++){
 // 	if(isPrime === true){
 // 		console.log(i)
 // 	}
 // }
-// } = console.log(isPrime(11));
-// 	console.log(isPrime(20));
-// 	console.log(isPrime(11));
+// } = 
    
 	
 	
